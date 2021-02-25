@@ -1,0 +1,28 @@
+{
+  "name": "imi-tools-sandbox",
+  "version": "1.0.0",
+  "description": "経産省のimi-toolsを試してみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUUKIToriyama/imi-tools-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YUUKIToriyama/imi-tools-sandbox/issues"
+  },
+  "homepage": "https://github.com/YUUKIToriyama/imi-tools-sandbox#readme",
+  "dependencies": {
+    "imi-enrichment-address": "https://info.gbiz.go.jp/tools/imi_tools/resource/imi-enrichment-address/imi-enrichment-address-2.0.0.tgz",
+    "imi-enrichment-contact": "https://info.gbiz.go.jp/tools/imi_tools/resource/imi-enrichment-contact/imi-enrichment-contact-1.0.0.tgz",
+    "imi-enrichment-date": "https://info.gbiz.go.jp/tools/imi_tools/resource/imi-enrichment-date/imi-enrichment-date-1.0.0.tgz",
+    "imi-enrichment-hojin": "https://info.gbiz.go.jp/tools/imi_tools/resource/imi-enrichment-hojin/imi-enrichment-hojin-2.0.0.tgz",
+    "imi-enrichment-jsic": "https://info.gbiz.go.jp/tools/imi_tools/resource/imi-enrichment-jsic/imi-enrichment-jsic-1.0.0.tgz",
+    "imi-moji-converter": "https://info.gbiz.go.jp/tools/imi_tools/resource/01/imi-moji-converter-1.0.0.tgz"
+  }
+}
